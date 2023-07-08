@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  min-height: 80vh;
+}
+
+.celdas {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  min-height: 50vh;
+}
+
+.MuiOutlinedInput-input.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: aliceblue !important;
+  border-color: white !important;
+}
+.Mui-focused {
+  color: aliceblue !important;
+  border-color: blanchedalmond !important;
+}
+.MuiOutlinedInput {
+  color: aliceblue !important;
+  border-color: blanchedalmond !important;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionStatic.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #3085f39c;
+}
+
+body {
+  background: radial-gradient(
+    circle,
+    rgba(78, 78, 78, 1) 0%,
+    rgba(7, 53, 83, 1) 47%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
